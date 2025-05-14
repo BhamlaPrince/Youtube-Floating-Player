@@ -1,0 +1,13 @@
+
+# Ignore IDE files
+.vscode/           
+
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore temporary build files
+/dist/
