@@ -54,11 +54,11 @@ It may not that good but it will do the job.
 4. **Close the Floating Video**:
    - To close the floating video, click the extension icon again or close the floating window.
 
-## Connect with Me:
+## Connect with Me
 
-- [Twitter]: https://x.com/BhamlaPrince
-- [LinkedIn]: www.linkedin.com/in/prince-kumar-342235237
-- [GitHub]: https://github.com/BhamlaPrince
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BhamlaPrince)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-342235237)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhamlaPrince)
 
 ## License:
 
